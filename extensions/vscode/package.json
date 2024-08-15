@@ -520,7 +520,7 @@
     "@types/uuid": "^9.0.8",
     "@vscode/ripgrep": "^1.15.9",
     "@vscode/test-electron": "^2.3.9",
-    "axios": "^1.2.5",
+    "axios": "^1.7.4",
     "core": "file:../../core",
     "cors": "^2.8.5",
     "dbinfoz": "^0.1.4",
