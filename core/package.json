@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-bedrock-runtime": "^3.621.0",
-    "@mozilla/readability": "^0.5.0",
+    "@mozilla/readability": "^0.6.0",
     "@octokit/rest": "^20.0.2",
     "@types/jsdom": "^21.1.6",
     "@types/mozilla-readability": "^0.2.1",
@@ -60,7 +60,7 @@
     "onnxruntime-node": "1.14.0",
     "openai": "^4.20.1",
     "pg": "^8.11.3",
-    "posthog-node": "^3.6.3",
+    "posthog-node": "^4.11.2",
     "replicate": "^0.26.0",
     "request": "^2.88.2",
     "socket.io-client": "^4.7.3",
