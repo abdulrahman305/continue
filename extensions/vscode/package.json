@@ -510,12 +510,12 @@
     "ovsx": "^0.8.3",
     "rimraf": "^5.0.5",
     "typescript": "^5.3.3",
-    "vite": "^4.3.9",
+    "vite": "^4.5.14",
     "vsce": "^2.15.0"
   },
   "dependencies": {
     "@electron/rebuild": "^3.2.10",
-    "@reduxjs/toolkit": "^1.9.3",
+    "@reduxjs/toolkit": "^2.0.0",
     "@types/node-fetch": "^2.6.11",
     "@types/uuid": "^9.0.8",
     "@vscode/ripgrep": "^1.15.9",
@@ -544,7 +544,7 @@
     "node-machine-id": "^1.1.12",
     "posthog-node": "^3.6.3",
     "react-markdown": "^8.0.7",
-    "react-redux": "^8.0.5",
+    "react-redux": "^9.0.0",
     "request": "^2.88.2",
     "socket.io-client": "^4.7.2",
     "strip-ansi": "^7.1.0",
