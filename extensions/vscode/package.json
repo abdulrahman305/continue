@@ -719,7 +719,7 @@
   "dependencies": {
     "@continuedev/config-types": "^1.0.14",
     "@continuedev/fetch": "^1.0.10",
-    "@electron/rebuild": "^3.2.10",
+    "@electron/rebuild": "^4.0.1",
     "@reduxjs/toolkit": "^1.9.3",
     "@vscode/ripgrep": "^1.15.9",
     "axios": "^1.2.5",
