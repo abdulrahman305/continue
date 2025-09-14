@@ -713,7 +713,7 @@
     "ovsx": "^0.8.3",
     "rimraf": "^5.0.5",
     "typescript": "^5.6.3",
-    "vite": "^4.5.14",
+    "vite": "^5.4.20",
     "vscode-extension-tester": "^8.16.0"
   },
   "dependencies": {
@@ -722,7 +722,7 @@
     "@electron/rebuild": "^4.0.1",
     "@reduxjs/toolkit": "^1.9.3",
     "@vscode/ripgrep": "^1.15.9",
-    "axios": "^1.2.5",
+    "axios": "^1.12.0",
     "core": "file:../../core",
     "cors": "^2.8.5",
     "dbinfoz": "^0.14.0",
@@ -762,7 +762,7 @@
     "undici": "^6.21.3",
     "uuid": "^9.0.1",
     "uuidv4": "^6.2.13",
-    "vectordb": "^0.4.20",
+    "vectordb": "^0.21.2",
     "vitest": "^3.1.4",
     "vscode-languageclient": "^8.0.2",
     "ws": "^8.13.0",
